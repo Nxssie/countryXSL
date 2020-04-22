@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wb:data page="1" pages="2" per_page="50" total="60" sourceid="2" lastupdated="2020-03-18" xmlns:wb="http://www.worldbank.org">
+    <population>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2019</wb:date>
+            <wb:value />
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2018</wb:date>
+            <wb:value>8516543</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2017</wb:date>
+            <wb:value>8451840</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2016</wb:date>
+            <wb:value>8373338</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2015</wb:date>
+            <wb:value>8282396</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2014</wb:date>
+            <wb:value>8188649</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2013</wb:date>
+            <wb:value>8089346</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2012</wb:date>
+            <wb:value>7996861</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2011</wb:date>
+            <wb:value>7912398</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2010</wb:date>
+            <wb:value>7824909</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2009</wb:date>
+            <wb:value>7743831</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2008</wb:date>
+            <wb:value>7647675</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2007</wb:date>
+            <wb:value>7551117</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2006</wb:date>
+            <wb:value>7483934</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2005</wb:date>
+            <wb:value>7437115</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2004</wb:date>
+            <wb:value>7389625</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2003</wb:date>
+            <wb:value>7339001</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2002</wb:date>
+            <wb:value>7284753</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2001</wb:date>
+            <wb:value>7229854</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2000</wb:date>
+            <wb:value>7184250</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1999</wb:date>
+            <wb:value>7143991</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1998</wb:date>
+            <wb:value>7110001</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1997</wb:date>
+            <wb:value>7088906</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1996</wb:date>
+            <wb:value>7071850</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1995</wb:date>
+            <wb:value>7040687</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1994</wb:date>
+            <wb:value>6993795</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1993</wb:date>
+            <wb:value>6938265</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1992</wb:date>
+            <wb:value>6875364</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1991</wb:date>
+            <wb:value>6799978</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1990</wb:date>
+            <wb:value>6715519</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1989</wb:date>
+            <wb:value>6646912</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1988</wb:date>
+            <wb:value>6593386</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1987</wb:date>
+            <wb:value>6545106</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1986</wb:date>
+            <wb:value>6504124</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1985</wb:date>
+            <wb:value>6470365</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1984</wb:date>
+            <wb:value>6441865</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1983</wb:date>
+            <wb:value>6418773</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1982</wb:date>
+            <wb:value>6391309</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1981</wb:date>
+            <wb:value>6354074</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1980</wb:date>
+            <wb:value>6319408</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1979</wb:date>
+            <wb:value>6294365</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1978</wb:date>
+            <wb:value>6281738</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1977</wb:date>
+            <wb:value>6281174</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1976</wb:date>
+            <wb:value>6302504</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1975</wb:date>
+            <wb:value>6338632</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1974</wb:date>
+            <wb:value>6341405</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1973</wb:date>
+            <wb:value>6307347</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1972</wb:date>
+            <wb:value>6260956</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1971</wb:date>
+            <wb:value>6213399</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1970</wb:date>
+            <wb:value>6180877</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+    </population>
+    <gdp>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2019</wb:date>
+            <wb:value />
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2018</wb:date>
+            <wb:value>705140354166.312</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2017</wb:date>
+            <wb:value>679950915261.122</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2016</wb:date>
+            <wb:value>671308872735.114</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2015</wb:date>
+            <wb:value>679832391757.542</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2014</wb:date>
+            <wb:value>709182183359.844</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2013</wb:date>
+            <wb:value>688504215507.029</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2012</wb:date>
+            <wb:value>668043476123.359</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2011</wb:date>
+            <wb:value>699579502158.199</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2010</wb:date>
+            <wb:value>583783396408.582</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2009</wb:date>
+            <wb:value>541506295377.263</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2008</wb:date>
+            <wb:value>554363401347.983</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2007</wb:date>
+            <wb:value>479913362212.596</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2006</wb:date>
+            <wb:value>430921199553.358</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2005</wb:date>
+            <wb:value>408689367169.933</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2004</wb:date>
+            <wb:value>394164053075.995</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2003</wb:date>
+            <wb:value>352914531818.519</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2002</wb:date>
+            <wb:value>301416655973.309</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2001</wb:date>
+            <wb:value>278631192225.646</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>2000</wb:date>
+            <wb:value>272055305542.397</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1999</wb:date>
+            <wb:value>289912794567.967</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1998</wb:date>
+            <wb:value>295044833770.175</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1997</wb:date>
+            <wb:value>286518982980.776</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1996</wb:date>
+            <wb:value>330091423948.22</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1995</wb:date>
+            <wb:value>342617336152.22</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1994</wb:date>
+            <wb:value>292646657673.466</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1993</wb:date>
+            <wb:value>264353008121.278</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1992</wb:date>
+            <wb:value>271814366804.153</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1991</wb:date>
+            <wb:value>261113787377.964</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1990</wb:date>
+            <wb:value>258066552980.132</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1989</wb:date>
+            <wb:value>202078703955.009</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1988</wb:date>
+            <wb:value>209298156700.608</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1987</wb:date>
+            <wb:value>193466104144.313</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1986</wb:date>
+            <wb:value>154482372838.957</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1985</wb:date>
+            <wb:value>107766112124.049</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1984</wb:date>
+            <wb:value>106285277141.763</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1983</wb:date>
+            <wb:value>111314328474.108</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1982</wb:date>
+            <wb:value>111711490075.358</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1981</wb:date>
+            <wb:value>108993981315.548</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1980</wb:date>
+            <wb:value>119008334606.433</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1979</wb:date>
+            <wb:value>111640341011.608</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1978</wb:date>
+            <wb:value>99318234340.0447</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1977</wb:date>
+            <wb:value>71017619471.6039</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1976</wb:date>
+            <wb:value>66493313570.1712</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1975</wb:date>
+            <wb:value>63570059117.4989</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1974</wb:date>
+            <wb:value>55449199174.3027</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1973</wb:date>
+            <wb:value>48114943566.7341</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1972</wb:date>
+            <wb:value>35777236928.2329</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1971</wb:date>
+            <wb:value>29170150922.8574</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="CH">Switzerland</wb:country>
+            <wb:countryiso3code>CHE</wb:countryiso3code>
+            <wb:date>1970</wb:date>
+            <wb:value>24274075005.7169</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+    </gdp>
+</wb:data>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wb="http://www.worldbank.org"
+      xmlns="https://www.nxssie.com" xsi:schemaLocation="https://www.nxssie.com norway_output.xsd">
+    <pop>
+        <entry>
+            <date>2019</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>NaN</population>
+        </entry>
+        <entry>
+            <date>2018</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>5.311.916,00</population>
+        </entry>
+        <entry>
+            <date>2017</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>5.276.968,00</population>
+        </entry>
+        <entry>
+            <date>2016</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>5.234.519,00</population>
+        </entry>
+        <entry>
+            <date>2015</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>5.188.607,00</population>
+        </entry>
+        <entry>
+            <date>2014</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>5.137.232,00</population>
+        </entry>
+        <entry>
+            <date>2013</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>5.079.623,00</population>
+        </entry>
+        <entry>
+            <date>2012</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>5.018.573,00</population>
+        </entry>
+        <entry>
+            <date>2011</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.953.088,00</population>
+        </entry>
+        <entry>
+            <date>2010</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.889.252,00</population>
+        </entry>
+        <entry>
+            <date>2009</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.828.726,00</population>
+        </entry>
+        <entry>
+            <date>2008</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.768.212,00</population>
+        </entry>
+        <entry>
+            <date>2007</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.709.153,00</population>
+        </entry>
+        <entry>
+            <date>2006</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.660.677,00</population>
+        </entry>
+        <entry>
+            <date>2005</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.623.291,00</population>
+        </entry>
+        <entry>
+            <date>2004</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.591.910,00</population>
+        </entry>
+        <entry>
+            <date>2003</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.564.855,00</population>
+        </entry>
+        <entry>
+            <date>2002</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.538.159,00</population>
+        </entry>
+        <entry>
+            <date>2001</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.513.751,00</population>
+        </entry>
+        <entry>
+            <date>2000</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.490.967,00</population>
+        </entry>
+        <entry>
+            <date>1999</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.461.913,00</population>
+        </entry>
+        <entry>
+            <date>1998</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.431.464,00</population>
+        </entry>
+        <entry>
+            <date>1997</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.405.157,00</population>
+        </entry>
+        <entry>
+            <date>1996</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.381.336,00</population>
+        </entry>
+        <entry>
+            <date>1995</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.359.184,00</population>
+        </entry>
+        <entry>
+            <date>1994</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.336.613,00</population>
+        </entry>
+        <entry>
+            <date>1993</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.311.991,00</population>
+        </entry>
+        <entry>
+            <date>1992</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.286.401,00</population>
+        </entry>
+        <entry>
+            <date>1991</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.261.732,00</population>
+        </entry>
+        <entry>
+            <date>1990</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.241.473,00</population>
+        </entry>
+        <entry>
+            <date>1989</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.226.901,00</population>
+        </entry>
+        <entry>
+            <date>1988</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.209.488,00</population>
+        </entry>
+        <entry>
+            <date>1987</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.186.905,00</population>
+        </entry>
+        <entry>
+            <date>1986</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.167.354,00</population>
+        </entry>
+        <entry>
+            <date>1985</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.152.516,00</population>
+        </entry>
+        <entry>
+            <date>1984</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.140.099,00</population>
+        </entry>
+        <entry>
+            <date>1983</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.128.432,00</population>
+        </entry>
+        <entry>
+            <date>1982</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.114.787,00</population>
+        </entry>
+        <entry>
+            <date>1981</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.099.702,00</population>
+        </entry>
+        <entry>
+            <date>1980</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.085.620,00</population>
+        </entry>
+        <entry>
+            <date>1979</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.072.517,00</population>
+        </entry>
+        <entry>
+            <date>1978</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.058.671,00</population>
+        </entry>
+        <entry>
+            <date>1977</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.043.205,00</population>
+        </entry>
+        <entry>
+            <date>1976</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.026.152,00</population>
+        </entry>
+        <entry>
+            <date>1975</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>4.007.313,00</population>
+        </entry>
+        <entry>
+            <date>1974</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>3.985.258,00</population>
+        </entry>
+        <entry>
+            <date>1973</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>3.960.612,00</population>
+        </entry>
+        <entry>
+            <date>1972</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>3.933.004,00</population>
+        </entry>
+        <entry>
+            <date>1971</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>3.903.039,00</population>
+        </entry>
+        <entry>
+            <date>1970</date>
+            <indicator>Population, total</indicator>
+            <country>Norway</country>
+            <population>3.875.763,00</population>
+        </entry>
+    </pop>
+    <gdp>
+        <entry>
+            <date>2019</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>NaN</gdp>
+        </entry>
+        <entry>
+            <date>2018</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>434.166.615.431,91</gdp>
+        </entry>
+        <entry>
+            <date>2017</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>398.393.955.268,99</gdp>
+        </entry>
+        <entry>
+            <date>2016</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>368.827.142.857,14</gdp>
+        </entry>
+        <entry>
+            <date>2015</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>385.801.550.067,17</gdp>
+        </entry>
+        <entry>
+            <date>2014</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>498.410.050.251,26</gdp>
+        </entry>
+        <entry>
+            <date>2013</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>522.761.531.914,89</gdp>
+        </entry>
+        <entry>
+            <date>2012</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>509.506.317.146,54</gdp>
+        </entry>
+        <entry>
+            <date>2011</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>498.283.438.454,28</gdp>
+        </entry>
+        <entry>
+            <date>2010</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>428.757.038.466,84</gdp>
+        </entry>
+        <entry>
+            <date>2009</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>386.190.385.318,77</gdp>
+        </entry>
+        <entry>
+            <date>2008</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>462.250.000.000,00</gdp>
+        </entry>
+        <entry>
+            <date>2007</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>400.937.100.158,66</gdp>
+        </entry>
+        <entry>
+            <date>2006</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>345.581.369.965,54</gdp>
+        </entry>
+        <entry>
+            <date>2005</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>308.884.284.051,22</gdp>
+        </entry>
+        <entry>
+            <date>2004</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>264.511.630.666,98</gdp>
+        </entry>
+        <entry>
+            <date>2003</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>228.858.506.821,84</gdp>
+        </entry>
+        <entry>
+            <date>2002</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>195.524.186.477,62</gdp>
+        </entry>
+        <entry>
+            <date>2001</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>173.972.218.824,03</gdp>
+        </entry>
+        <entry>
+            <date>2000</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>171.247.131.268,60</gdp>
+        </entry>
+        <entry>
+            <date>1999</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>162.284.465.073,34</gdp>
+        </entry>
+        <entry>
+            <date>1998</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>154.163.364.302,66</gdp>
+        </entry>
+        <entry>
+            <date>1997</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>161.356.631.888,48</gdp>
+        </entry>
+        <entry>
+            <date>1996</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>163.520.109.150,67</gdp>
+        </entry>
+        <entry>
+            <date>1995</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>152.029.612.324,79</gdp>
+        </entry>
+        <entry>
+            <date>1994</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>127.131.461.119,93</gdp>
+        </entry>
+        <entry>
+            <date>1993</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>120.579.072.750,60</gdp>
+        </entry>
+        <entry>
+            <date>1992</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>130.838.040.067,58</gdp>
+        </entry>
+        <entry>
+            <date>1991</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>121.872.464.483,49</gdp>
+        </entry>
+        <entry>
+            <date>1990</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>119.791.683.307,51</gdp>
+        </entry>
+        <entry>
+            <date>1989</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>102.633.789.557,54</gdp>
+        </entry>
+        <entry>
+            <date>1988</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>101.900.260.856,22</gdp>
+        </entry>
+        <entry>
+            <date>1987</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>94.230.055.658,63</gdp>
+        </entry>
+        <entry>
+            <date>1986</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>78.693.253.275,99</gdp>
+        </entry>
+        <entry>
+            <date>1985</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>65.416.879.914,39</gdp>
+        </entry>
+        <entry>
+            <date>1984</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>62.057.955.032,78</gdp>
+        </entry>
+        <entry>
+            <date>1983</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>61.627.240.831,09</gdp>
+        </entry>
+        <entry>
+            <date>1982</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>62.647.195.537,65</gdp>
+        </entry>
+        <entry>
+            <date>1981</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>63.596.654.760,87</gdp>
+        </entry>
+        <entry>
+            <date>1980</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>64.439.382.896,02</gdp>
+        </entry>
+        <entry>
+            <date>1979</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>53.132.244.623,92</gdp>
+        </entry>
+        <entry>
+            <date>1978</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>46.523.091.009,67</gdp>
+        </entry>
+        <entry>
+            <date>1977</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>41.508.030.431,11</gdp>
+        </entry>
+        <entry>
+            <date>1976</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>35.942.270.686,34</gdp>
+        </entry>
+        <entry>
+            <date>1975</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>32.877.805.200,02</gdp>
+        </entry>
+        <entry>
+            <date>1974</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>27.145.693.810,13</gdp>
+        </entry>
+        <entry>
+            <date>1973</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>22.534.253.702,87</gdp>
+        </entry>
+        <entry>
+            <date>1972</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>17.358.610.849,70</gdp>
+        </entry>
+        <entry>
+            <date>1971</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>14.583.114.840,06</gdp>
+        </entry>
+        <entry>
+            <date>1970</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Norway</country>
+            <gdp>12.814.123.115,26</gdp>
+        </entry>
+    </gdp>
+</data>

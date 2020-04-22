@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wb:data page="1" pages="2" per_page="50" total="60" sourceid="2" lastupdated="2020-03-18" xmlns:wb="http://www.worldbank.org">
+    <population>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2019</wb:date>
+            <wb:value />
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2018</wb:date>
+            <wb:value>66460344</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2017</wb:date>
+            <wb:value>66058859</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2016</wb:date>
+            <wb:value>65611593</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2015</wb:date>
+            <wb:value>65116219</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2014</wb:date>
+            <wb:value>64602298</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2013</wb:date>
+            <wb:value>64128273</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2012</wb:date>
+            <wb:value>63700215</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2011</wb:date>
+            <wb:value>63258810</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2010</wb:date>
+            <wb:value>62766365</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2009</wb:date>
+            <wb:value>62276270</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2008</wb:date>
+            <wb:value>61806995</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2007</wb:date>
+            <wb:value>61322463</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2006</wb:date>
+            <wb:value>60846820</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2005</wb:date>
+            <wb:value>60401206</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2004</wb:date>
+            <wb:value>59987905</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2003</wb:date>
+            <wb:value>59647577</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2002</wb:date>
+            <wb:value>59370479</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2001</wb:date>
+            <wb:value>59119673</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2000</wb:date>
+            <wb:value>58892514</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1999</wb:date>
+            <wb:value>58682466</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1998</wb:date>
+            <wb:value>58487141</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1997</wb:date>
+            <wb:value>58316954</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1996</wb:date>
+            <wb:value>58166950</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1995</wb:date>
+            <wb:value>58019030</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1994</wb:date>
+            <wb:value>57865745</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1993</wb:date>
+            <wb:value>57718614</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1992</wb:date>
+            <wb:value>57580402</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1991</wb:date>
+            <wb:value>57424897</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1990</wb:date>
+            <wb:value>57247586</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1989</wb:date>
+            <wb:value>57076711</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1988</wb:date>
+            <wb:value>56928327</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1987</wb:date>
+            <wb:value>56802050</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1986</wb:date>
+            <wb:value>56681396</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1985</wb:date>
+            <wb:value>56550268</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1984</wb:date>
+            <wb:value>56422072</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1983</wb:date>
+            <wb:value>56332848</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1982</wb:date>
+            <wb:value>56313641</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1981</wb:date>
+            <wb:value>56333829</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1980</wb:date>
+            <wb:value>56314216</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1979</wb:date>
+            <wb:value>56246951</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1978</wb:date>
+            <wb:value>56196504</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1977</wb:date>
+            <wb:value>56193492</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1976</wb:date>
+            <wb:value>56211968</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1975</wb:date>
+            <wb:value>56225800</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1974</wb:date>
+            <wb:value>56229974</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1973</wb:date>
+            <wb:value>56194527</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1972</wb:date>
+            <wb:value>56086065</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1971</wb:date>
+            <wb:value>55896223</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1970</wb:date>
+            <wb:value>55663250</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+    </population>
+    <gdp>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2019</wb:date>
+            <wb:value />
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2018</wb:date>
+            <wb:value>2855296731521.96</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2017</wb:date>
+            <wb:value>2666229179958.01</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2016</wb:date>
+            <wb:value>2694283209613.29</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2015</wb:date>
+            <wb:value>2928591002002.51</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2014</wb:date>
+            <wb:value>3063803240208.01</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2013</wb:date>
+            <wb:value>2786022872706.81</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2012</wb:date>
+            <wb:value>2704887678386.72</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2011</wb:date>
+            <wb:value>2659310054646.23</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2010</wb:date>
+            <wb:value>2475244321361.11</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2009</wb:date>
+            <wb:value>2410909799034.12</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2008</wb:date>
+            <wb:value>2922667279411.76</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2007</wb:date>
+            <wb:value>3100882352941.18</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2006</wb:date>
+            <wb:value>2713749770009.2</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2005</wb:date>
+            <wb:value>2538680000000</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2004</wb:date>
+            <wb:value>2416931526913.22</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2003</wb:date>
+            <wb:value>2053018775510.2</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2002</wb:date>
+            <wb:value>1784473920863.31</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2001</wb:date>
+            <wb:value>1640246149417.01</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>2000</wb:date>
+            <wb:value>1657816613708.58</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1999</wb:date>
+            <wb:value>1682399288141.08</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1998</wb:date>
+            <wb:value>1650172242464.39</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1997</wb:date>
+            <wb:value>1559078258022.27</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1996</wb:date>
+            <wb:value>1415358814352.57</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1995</wb:date>
+            <wb:value>1341584345905</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1994</wb:date>
+            <wb:value>1140489745944.29</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1993</wb:date>
+            <wb:value>1061388722255.55</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1992</wb:date>
+            <wb:value>1179659529659.53</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1991</wb:date>
+            <wb:value>1142797178130.51</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1990</wb:date>
+            <wb:value>1093169389204.55</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1989</wb:date>
+            <wb:value>926884816753.927</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1988</wb:date>
+            <wb:value>910122732123.799</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1987</wb:date>
+            <wb:value>745162608269.325</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1986</wb:date>
+            <wb:value>601452653180.885</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1985</wb:date>
+            <wb:value>489285164271.047</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1984</wb:date>
+            <wb:value>461487097632.349</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1983</wb:date>
+            <wb:value>489618008185.539</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1982</wb:date>
+            <wb:value>515048916841.37</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1981</wb:date>
+            <wb:value>540765675241.158</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1980</wb:date>
+            <wb:value>564947710899.373</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1979</wb:date>
+            <wb:value>438994070309.191</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1978</wb:date>
+            <wb:value>335883029721.956</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1977</wb:date>
+            <wb:value>263066457352.172</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1976</wb:date>
+            <wb:value>232614555256.065</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1975</wb:date>
+            <wb:value>241756637168.142</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1974</wb:date>
+            <wb:value>206131369798.971</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1973</wb:date>
+            <wb:value>192537971582.558</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1972</wb:date>
+            <wb:value>169965034965.035</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1971</wb:date>
+            <wb:value>148113896325.14</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="GB">United Kingdom</wb:country>
+            <wb:countryiso3code>GBR</wb:countryiso3code>
+            <wb:date>1970</wb:date>
+            <wb:value>130671946244.3</wb:value>
+            <wb:unit />
+            <wb:obs_status />
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+    </gdp>
+</wb:data>

@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wb:data page="1" pages="2" per_page="50" total="60" sourceid="2" lastupdated="2020-03-18"
+         xmlns:wb="http://www.worldbank.org">
+    <population>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2019</wb:date>
+            <wb:value/>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2018</wb:date>
+            <wb:value>5311916</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2017</wb:date>
+            <wb:value>5276968</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2016</wb:date>
+            <wb:value>5234519</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2015</wb:date>
+            <wb:value>5188607</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2014</wb:date>
+            <wb:value>5137232</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2013</wb:date>
+            <wb:value>5079623</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2012</wb:date>
+            <wb:value>5018573</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2011</wb:date>
+            <wb:value>4953088</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2010</wb:date>
+            <wb:value>4889252</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2009</wb:date>
+            <wb:value>4828726</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2008</wb:date>
+            <wb:value>4768212</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2007</wb:date>
+            <wb:value>4709153</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2006</wb:date>
+            <wb:value>4660677</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2005</wb:date>
+            <wb:value>4623291</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2004</wb:date>
+            <wb:value>4591910</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2003</wb:date>
+            <wb:value>4564855</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2002</wb:date>
+            <wb:value>4538159</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2001</wb:date>
+            <wb:value>4513751</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2000</wb:date>
+            <wb:value>4490967</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1999</wb:date>
+            <wb:value>4461913</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1998</wb:date>
+            <wb:value>4431464</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1997</wb:date>
+            <wb:value>4405157</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1996</wb:date>
+            <wb:value>4381336</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1995</wb:date>
+            <wb:value>4359184</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1994</wb:date>
+            <wb:value>4336613</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1993</wb:date>
+            <wb:value>4311991</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1992</wb:date>
+            <wb:value>4286401</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1991</wb:date>
+            <wb:value>4261732</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1990</wb:date>
+            <wb:value>4241473</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1989</wb:date>
+            <wb:value>4226901</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1988</wb:date>
+            <wb:value>4209488</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1987</wb:date>
+            <wb:value>4186905</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1986</wb:date>
+            <wb:value>4167354</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1985</wb:date>
+            <wb:value>4152516</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1984</wb:date>
+            <wb:value>4140099</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1983</wb:date>
+            <wb:value>4128432</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1982</wb:date>
+            <wb:value>4114787</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1981</wb:date>
+            <wb:value>4099702</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1980</wb:date>
+            <wb:value>4085620</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1979</wb:date>
+            <wb:value>4072517</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1978</wb:date>
+            <wb:value>4058671</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1977</wb:date>
+            <wb:value>4043205</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1976</wb:date>
+            <wb:value>4026152</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1975</wb:date>
+            <wb:value>4007313</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1974</wb:date>
+            <wb:value>3985258</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1973</wb:date>
+            <wb:value>3960612</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1972</wb:date>
+            <wb:value>3933004</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1971</wb:date>
+            <wb:value>3903039</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="SP.POP.TOTL">Population, total</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1970</wb:date>
+            <wb:value>3875763</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+    </population>
+    <gdp>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2019</wb:date>
+            <wb:value/>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2018</wb:date>
+            <wb:value>434166615431.909</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2017</wb:date>
+            <wb:value>398393955268.99</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2016</wb:date>
+            <wb:value>368827142857.143</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2015</wb:date>
+            <wb:value>385801550067.169</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2014</wb:date>
+            <wb:value>498410050251.256</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2013</wb:date>
+            <wb:value>522761531914.894</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2012</wb:date>
+            <wb:value>509506317146.541</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2011</wb:date>
+            <wb:value>498283438454.281</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2010</wb:date>
+            <wb:value>428757038466.841</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2009</wb:date>
+            <wb:value>386190385318.767</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2008</wb:date>
+            <wb:value>462250000000</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2007</wb:date>
+            <wb:value>400937100158.657</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2006</wb:date>
+            <wb:value>345581369965.54</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2005</wb:date>
+            <wb:value>308884284051.222</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2004</wb:date>
+            <wb:value>264511630666.983</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2003</wb:date>
+            <wb:value>228858506821.841</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2002</wb:date>
+            <wb:value>195524186477.617</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2001</wb:date>
+            <wb:value>173972218824.027</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>2000</wb:date>
+            <wb:value>171247131268.604</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1999</wb:date>
+            <wb:value>162284465073.341</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1998</wb:date>
+            <wb:value>154163364302.66</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1997</wb:date>
+            <wb:value>161356631888.484</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1996</wb:date>
+            <wb:value>163520109150.671</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1995</wb:date>
+            <wb:value>152029612324.788</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1994</wb:date>
+            <wb:value>127131461119.927</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1993</wb:date>
+            <wb:value>120579072750.596</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1992</wb:date>
+            <wb:value>130838040067.584</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1991</wb:date>
+            <wb:value>121872464483.487</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1990</wb:date>
+            <wb:value>119791683307.507</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1989</wb:date>
+            <wb:value>102633789557.535</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1988</wb:date>
+            <wb:value>101900260856.222</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1987</wb:date>
+            <wb:value>94230055658.6271</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1986</wb:date>
+            <wb:value>78693253275.995</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1985</wb:date>
+            <wb:value>65416879914.3907</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1984</wb:date>
+            <wb:value>62057955032.7758</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1983</wb:date>
+            <wb:value>61627240831.0948</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1982</wb:date>
+            <wb:value>62647195537.6511</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1981</wb:date>
+            <wb:value>63596654760.8677</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1980</wb:date>
+            <wb:value>64439382896.0156</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1979</wb:date>
+            <wb:value>53132244623.9213</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1978</wb:date>
+            <wb:value>46523091009.6713</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1977</wb:date>
+            <wb:value>41508030431.1074</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1976</wb:date>
+            <wb:value>35942270686.3374</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1975</wb:date>
+            <wb:value>32877805200.023</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1974</wb:date>
+            <wb:value>27145693810.1341</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1973</wb:date>
+            <wb:value>22534253702.8686</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1972</wb:date>
+            <wb:value>17358610849.701</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1971</wb:date>
+            <wb:value>14583114840.0629</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+        <wb:data>
+            <wb:indicator id="NY.GDP.MKTP.CD">GDP (current US$)</wb:indicator>
+            <wb:country id="NO">Norway</wb:country>
+            <wb:countryiso3code>NOR</wb:countryiso3code>
+            <wb:date>1970</wb:date>
+            <wb:value>12814123115.2613</wb:value>
+            <wb:unit/>
+            <wb:obs_status/>
+            <wb:decimal>0</wb:decimal>
+        </wb:data>
+    </gdp>
+</wb:data>

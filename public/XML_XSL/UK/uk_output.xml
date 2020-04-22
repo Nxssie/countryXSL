@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wb="http://www.worldbank.org"
+      xmlns="https://www.nxssie.com"
+      xsi:schemaLocation="https://www.nxssie.com uk_output.xsd">
+    <pop>
+        <entry>
+            <date>2019</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>NaN</population>
+        </entry>
+        <entry>
+            <date>2018</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>66.460.344,00</population>
+        </entry>
+        <entry>
+            <date>2017</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>66.058.859,00</population>
+        </entry>
+        <entry>
+            <date>2016</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>65.611.593,00</population>
+        </entry>
+        <entry>
+            <date>2015</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>65.116.219,00</population>
+        </entry>
+        <entry>
+            <date>2014</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>64.602.298,00</population>
+        </entry>
+        <entry>
+            <date>2013</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>64.128.273,00</population>
+        </entry>
+        <entry>
+            <date>2012</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>63.700.215,00</population>
+        </entry>
+        <entry>
+            <date>2011</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>63.258.810,00</population>
+        </entry>
+        <entry>
+            <date>2010</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>62.766.365,00</population>
+        </entry>
+        <entry>
+            <date>2009</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>62.276.270,00</population>
+        </entry>
+        <entry>
+            <date>2008</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>61.806.995,00</population>
+        </entry>
+        <entry>
+            <date>2007</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>61.322.463,00</population>
+        </entry>
+        <entry>
+            <date>2006</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>60.846.820,00</population>
+        </entry>
+        <entry>
+            <date>2005</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>60.401.206,00</population>
+        </entry>
+        <entry>
+            <date>2004</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>59.987.905,00</population>
+        </entry>
+        <entry>
+            <date>2003</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>59.647.577,00</population>
+        </entry>
+        <entry>
+            <date>2002</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>59.370.479,00</population>
+        </entry>
+        <entry>
+            <date>2001</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>59.119.673,00</population>
+        </entry>
+        <entry>
+            <date>2000</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>58.892.514,00</population>
+        </entry>
+        <entry>
+            <date>1999</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>58.682.466,00</population>
+        </entry>
+        <entry>
+            <date>1998</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>58.487.141,00</population>
+        </entry>
+        <entry>
+            <date>1997</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>58.316.954,00</population>
+        </entry>
+        <entry>
+            <date>1996</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>58.166.950,00</population>
+        </entry>
+        <entry>
+            <date>1995</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>58.019.030,00</population>
+        </entry>
+        <entry>
+            <date>1994</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>57.865.745,00</population>
+        </entry>
+        <entry>
+            <date>1993</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>57.718.614,00</population>
+        </entry>
+        <entry>
+            <date>1992</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>57.580.402,00</population>
+        </entry>
+        <entry>
+            <date>1991</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>57.424.897,00</population>
+        </entry>
+        <entry>
+            <date>1990</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>57.247.586,00</population>
+        </entry>
+        <entry>
+            <date>1989</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>57.076.711,00</population>
+        </entry>
+        <entry>
+            <date>1988</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.928.327,00</population>
+        </entry>
+        <entry>
+            <date>1987</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.802.050,00</population>
+        </entry>
+        <entry>
+            <date>1986</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.681.396,00</population>
+        </entry>
+        <entry>
+            <date>1985</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.550.268,00</population>
+        </entry>
+        <entry>
+            <date>1984</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.422.072,00</population>
+        </entry>
+        <entry>
+            <date>1983</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.332.848,00</population>
+        </entry>
+        <entry>
+            <date>1982</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.313.641,00</population>
+        </entry>
+        <entry>
+            <date>1981</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.333.829,00</population>
+        </entry>
+        <entry>
+            <date>1980</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.314.216,00</population>
+        </entry>
+        <entry>
+            <date>1979</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.246.951,00</population>
+        </entry>
+        <entry>
+            <date>1978</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.196.504,00</population>
+        </entry>
+        <entry>
+            <date>1977</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.193.492,00</population>
+        </entry>
+        <entry>
+            <date>1976</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.211.968,00</population>
+        </entry>
+        <entry>
+            <date>1975</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.225.800,00</population>
+        </entry>
+        <entry>
+            <date>1974</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.229.974,00</population>
+        </entry>
+        <entry>
+            <date>1973</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.194.527,00</population>
+        </entry>
+        <entry>
+            <date>1972</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>56.086.065,00</population>
+        </entry>
+        <entry>
+            <date>1971</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>55.896.223,00</population>
+        </entry>
+        <entry>
+            <date>1970</date>
+            <indicator>Population, total</indicator>
+            <country>United Kingdom</country>
+            <population>55.663.250,00</population>
+        </entry>
+    </pop>
+    <gdp>
+        <entry>
+            <date>2019</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>NaN</gdp>
+        </entry>
+        <entry>
+            <date>2018</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.855.296.731.521,96</gdp>
+        </entry>
+        <entry>
+            <date>2017</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.666.229.179.958,01</gdp>
+        </entry>
+        <entry>
+            <date>2016</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.694.283.209.613,29</gdp>
+        </entry>
+        <entry>
+            <date>2015</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.928.591.002.002,51</gdp>
+        </entry>
+        <entry>
+            <date>2014</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>3.063.803.240.208,01</gdp>
+        </entry>
+        <entry>
+            <date>2013</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.786.022.872.706,81</gdp>
+        </entry>
+        <entry>
+            <date>2012</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.704.887.678.386,72</gdp>
+        </entry>
+        <entry>
+            <date>2011</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.659.310.054.646,23</gdp>
+        </entry>
+        <entry>
+            <date>2010</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.475.244.321.361,11</gdp>
+        </entry>
+        <entry>
+            <date>2009</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.410.909.799.034,12</gdp>
+        </entry>
+        <entry>
+            <date>2008</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.922.667.279.411,76</gdp>
+        </entry>
+        <entry>
+            <date>2007</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>3.100.882.352.941,18</gdp>
+        </entry>
+        <entry>
+            <date>2006</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.713.749.770.009,20</gdp>
+        </entry>
+        <entry>
+            <date>2005</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.538.680.000.000,00</gdp>
+        </entry>
+        <entry>
+            <date>2004</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.416.931.526.913,22</gdp>
+        </entry>
+        <entry>
+            <date>2003</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>2.053.018.775.510,20</gdp>
+        </entry>
+        <entry>
+            <date>2002</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>1.784.473.920.863,31</gdp>
+        </entry>
+        <entry>
+            <date>2001</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>1.640.246.149.417,01</gdp>
+        </entry>
+        <entry>
+            <date>2000</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>1.657.816.613.708,58</gdp>
+        </entry>
+        <entry>
+            <date>1999</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>1.682.399.288.141,08</gdp>
+        </entry>
+        <entry>
+            <date>1998</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>1.650.172.242.464,39</gdp>
+        </entry>
+        <entry>
+            <date>1997</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>1.559.078.258.022,27</gdp>
+        </entry>
+        <entry>
+            <date>1996</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>1.415.358.814.352,57</gdp>
+        </entry>
+        <entry>
+            <date>1995</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>1.341.584.345.905,00</gdp>
+        </entry>
+        <entry>
+            <date>1994</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>1.140.489.745.944,29</gdp>
+        </entry>
+        <entry>
+            <date>1993</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>1.061.388.722.255,55</gdp>
+        </entry>
+        <entry>
+            <date>1992</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>1.179.659.529.659,53</gdp>
+        </entry>
+        <entry>
+            <date>1991</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>1.142.797.178.130,51</gdp>
+        </entry>
+        <entry>
+            <date>1990</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>1.093.169.389.204,55</gdp>
+        </entry>
+        <entry>
+            <date>1989</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>926.884.816.753,93</gdp>
+        </entry>
+        <entry>
+            <date>1988</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>910.122.732.123,80</gdp>
+        </entry>
+        <entry>
+            <date>1987</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>745.162.608.269,32</gdp>
+        </entry>
+        <entry>
+            <date>1986</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>601.452.653.180,89</gdp>
+        </entry>
+        <entry>
+            <date>1985</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>489.285.164.271,05</gdp>
+        </entry>
+        <entry>
+            <date>1984</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>461.487.097.632,35</gdp>
+        </entry>
+        <entry>
+            <date>1983</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>489.618.008.185,54</gdp>
+        </entry>
+        <entry>
+            <date>1982</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>515.048.916.841,37</gdp>
+        </entry>
+        <entry>
+            <date>1981</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>540.765.675.241,16</gdp>
+        </entry>
+        <entry>
+            <date>1980</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>564.947.710.899,37</gdp>
+        </entry>
+        <entry>
+            <date>1979</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>438.994.070.309,19</gdp>
+        </entry>
+        <entry>
+            <date>1978</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>335.883.029.721,96</gdp>
+        </entry>
+        <entry>
+            <date>1977</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>263.066.457.352,17</gdp>
+        </entry>
+        <entry>
+            <date>1976</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>232.614.555.256,07</gdp>
+        </entry>
+        <entry>
+            <date>1975</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>241.756.637.168,14</gdp>
+        </entry>
+        <entry>
+            <date>1974</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>206.131.369.798,97</gdp>
+        </entry>
+        <entry>
+            <date>1973</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>192.537.971.582,56</gdp>
+        </entry>
+        <entry>
+            <date>1972</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>169.965.034.965,04</gdp>
+        </entry>
+        <entry>
+            <date>1971</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>148.113.896.325,14</gdp>
+        </entry>
+        <entry>
+            <date>1970</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>United Kingdom</country>
+            <gdp>130.671.946.244,30</gdp>
+        </entry>
+    </gdp>
+</data>

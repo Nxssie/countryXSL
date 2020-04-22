@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wb="http://www.worldbank.org"
+      xmlns="https://www.nxssie.com"
+      xsi:schemaLocation="https://www.nxssie.com swiss_output.xsd">
+    <pop>
+        <entry>
+            <date>2019</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>NaN</population>
+        </entry>
+        <entry>
+            <date>2018</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>8.516.543,00</population>
+        </entry>
+        <entry>
+            <date>2017</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>8.451.840,00</population>
+        </entry>
+        <entry>
+            <date>2016</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>8.373.338,00</population>
+        </entry>
+        <entry>
+            <date>2015</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>8.282.396,00</population>
+        </entry>
+        <entry>
+            <date>2014</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>8.188.649,00</population>
+        </entry>
+        <entry>
+            <date>2013</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>8.089.346,00</population>
+        </entry>
+        <entry>
+            <date>2012</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.996.861,00</population>
+        </entry>
+        <entry>
+            <date>2011</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.912.398,00</population>
+        </entry>
+        <entry>
+            <date>2010</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.824.909,00</population>
+        </entry>
+        <entry>
+            <date>2009</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.743.831,00</population>
+        </entry>
+        <entry>
+            <date>2008</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.647.675,00</population>
+        </entry>
+        <entry>
+            <date>2007</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.551.117,00</population>
+        </entry>
+        <entry>
+            <date>2006</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.483.934,00</population>
+        </entry>
+        <entry>
+            <date>2005</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.437.115,00</population>
+        </entry>
+        <entry>
+            <date>2004</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.389.625,00</population>
+        </entry>
+        <entry>
+            <date>2003</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.339.001,00</population>
+        </entry>
+        <entry>
+            <date>2002</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.284.753,00</population>
+        </entry>
+        <entry>
+            <date>2001</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.229.854,00</population>
+        </entry>
+        <entry>
+            <date>2000</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.184.250,00</population>
+        </entry>
+        <entry>
+            <date>1999</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.143.991,00</population>
+        </entry>
+        <entry>
+            <date>1998</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.110.001,00</population>
+        </entry>
+        <entry>
+            <date>1997</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.088.906,00</population>
+        </entry>
+        <entry>
+            <date>1996</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.071.850,00</population>
+        </entry>
+        <entry>
+            <date>1995</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>7.040.687,00</population>
+        </entry>
+        <entry>
+            <date>1994</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.993.795,00</population>
+        </entry>
+        <entry>
+            <date>1993</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.938.265,00</population>
+        </entry>
+        <entry>
+            <date>1992</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.875.364,00</population>
+        </entry>
+        <entry>
+            <date>1991</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.799.978,00</population>
+        </entry>
+        <entry>
+            <date>1990</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.715.519,00</population>
+        </entry>
+        <entry>
+            <date>1989</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.646.912,00</population>
+        </entry>
+        <entry>
+            <date>1988</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.593.386,00</population>
+        </entry>
+        <entry>
+            <date>1987</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.545.106,00</population>
+        </entry>
+        <entry>
+            <date>1986</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.504.124,00</population>
+        </entry>
+        <entry>
+            <date>1985</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.470.365,00</population>
+        </entry>
+        <entry>
+            <date>1984</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.441.865,00</population>
+        </entry>
+        <entry>
+            <date>1983</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.418.773,00</population>
+        </entry>
+        <entry>
+            <date>1982</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.391.309,00</population>
+        </entry>
+        <entry>
+            <date>1981</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.354.074,00</population>
+        </entry>
+        <entry>
+            <date>1980</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.319.408,00</population>
+        </entry>
+        <entry>
+            <date>1979</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.294.365,00</population>
+        </entry>
+        <entry>
+            <date>1978</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.281.738,00</population>
+        </entry>
+        <entry>
+            <date>1977</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.281.174,00</population>
+        </entry>
+        <entry>
+            <date>1976</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.302.504,00</population>
+        </entry>
+        <entry>
+            <date>1975</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.338.632,00</population>
+        </entry>
+        <entry>
+            <date>1974</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.341.405,00</population>
+        </entry>
+        <entry>
+            <date>1973</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.307.347,00</population>
+        </entry>
+        <entry>
+            <date>1972</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.260.956,00</population>
+        </entry>
+        <entry>
+            <date>1971</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.213.399,00</population>
+        </entry>
+        <entry>
+            <date>1970</date>
+            <indicator>Population, total</indicator>
+            <country>Switzerland</country>
+            <population>6.180.877,00</population>
+        </entry>
+    </pop>
+    <gdp>
+        <entry>
+            <date>2019</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>NaN</gdp>
+        </entry>
+        <entry>
+            <date>2018</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>705.140.354.166,31</gdp>
+        </entry>
+        <entry>
+            <date>2017</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>679.950.915.261,12</gdp>
+        </entry>
+        <entry>
+            <date>2016</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>671.308.872.735,11</gdp>
+        </entry>
+        <entry>
+            <date>2015</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>679.832.391.757,54</gdp>
+        </entry>
+        <entry>
+            <date>2014</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>709.182.183.359,84</gdp>
+        </entry>
+        <entry>
+            <date>2013</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>688.504.215.507,03</gdp>
+        </entry>
+        <entry>
+            <date>2012</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>668.043.476.123,36</gdp>
+        </entry>
+        <entry>
+            <date>2011</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>699.579.502.158,20</gdp>
+        </entry>
+        <entry>
+            <date>2010</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>583.783.396.408,58</gdp>
+        </entry>
+        <entry>
+            <date>2009</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>541.506.295.377,26</gdp>
+        </entry>
+        <entry>
+            <date>2008</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>554.363.401.347,98</gdp>
+        </entry>
+        <entry>
+            <date>2007</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>479.913.362.212,60</gdp>
+        </entry>
+        <entry>
+            <date>2006</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>430.921.199.553,36</gdp>
+        </entry>
+        <entry>
+            <date>2005</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>408.689.367.169,93</gdp>
+        </entry>
+        <entry>
+            <date>2004</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>394.164.053.075,99</gdp>
+        </entry>
+        <entry>
+            <date>2003</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>352.914.531.818,52</gdp>
+        </entry>
+        <entry>
+            <date>2002</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>301.416.655.973,31</gdp>
+        </entry>
+        <entry>
+            <date>2001</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>278.631.192.225,65</gdp>
+        </entry>
+        <entry>
+            <date>2000</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>272.055.305.542,40</gdp>
+        </entry>
+        <entry>
+            <date>1999</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>289.912.794.567,97</gdp>
+        </entry>
+        <entry>
+            <date>1998</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>295.044.833.770,17</gdp>
+        </entry>
+        <entry>
+            <date>1997</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>286.518.982.980,78</gdp>
+        </entry>
+        <entry>
+            <date>1996</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>330.091.423.948,22</gdp>
+        </entry>
+        <entry>
+            <date>1995</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>342.617.336.152,22</gdp>
+        </entry>
+        <entry>
+            <date>1994</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>292.646.657.673,47</gdp>
+        </entry>
+        <entry>
+            <date>1993</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>264.353.008.121,28</gdp>
+        </entry>
+        <entry>
+            <date>1992</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>271.814.366.804,15</gdp>
+        </entry>
+        <entry>
+            <date>1991</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>261.113.787.377,96</gdp>
+        </entry>
+        <entry>
+            <date>1990</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>258.066.552.980,13</gdp>
+        </entry>
+        <entry>
+            <date>1989</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>202.078.703.955,01</gdp>
+        </entry>
+        <entry>
+            <date>1988</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>209.298.156.700,61</gdp>
+        </entry>
+        <entry>
+            <date>1987</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>193.466.104.144,31</gdp>
+        </entry>
+        <entry>
+            <date>1986</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>154.482.372.838,96</gdp>
+        </entry>
+        <entry>
+            <date>1985</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>107.766.112.124,05</gdp>
+        </entry>
+        <entry>
+            <date>1984</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>106.285.277.141,76</gdp>
+        </entry>
+        <entry>
+            <date>1983</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>111.314.328.474,11</gdp>
+        </entry>
+        <entry>
+            <date>1982</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>111.711.490.075,36</gdp>
+        </entry>
+        <entry>
+            <date>1981</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>108.993.981.315,55</gdp>
+        </entry>
+        <entry>
+            <date>1980</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>119.008.334.606,43</gdp>
+        </entry>
+        <entry>
+            <date>1979</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>111.640.341.011,61</gdp>
+        </entry>
+        <entry>
+            <date>1978</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>99.318.234.340,04</gdp>
+        </entry>
+        <entry>
+            <date>1977</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>71.017.619.471,60</gdp>
+        </entry>
+        <entry>
+            <date>1976</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>66.493.313.570,17</gdp>
+        </entry>
+        <entry>
+            <date>1975</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>63.570.059.117,50</gdp>
+        </entry>
+        <entry>
+            <date>1974</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>55.449.199.174,30</gdp>
+        </entry>
+        <entry>
+            <date>1973</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>48.114.943.566,73</gdp>
+        </entry>
+        <entry>
+            <date>1972</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>35.777.236.928,23</gdp>
+        </entry>
+        <entry>
+            <date>1971</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>29.170.150.922,86</gdp>
+        </entry>
+        <entry>
+            <date>1970</date>
+            <indicator>GDP (current US$)</indicator>
+            <country>Switzerland</country>
+            <gdp>24.274.075.005,72</gdp>
+        </entry>
+    </gdp>
+</data>

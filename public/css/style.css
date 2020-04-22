@@ -1,0 +1,34 @@
+.my-custom-scrolltable {
+    position: relative;
+    height: 525px;
+    overflow-y: scroll;
+}
+
+#brand {
+    height: 30px;
+    width: 30px;
+}
+
+td, th {
+    text-align: center;
+}
+
+.my-custom-scrolltable::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    overflow-y: scroll;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+.table-wrapper-scroll-y {
+    display: block;
+}
+
+#header {
+    margin-top: 5vh;
+    text-align: center;
+}
