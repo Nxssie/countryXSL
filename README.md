@@ -10,8 +10,7 @@ When you want to generate a new XML/HTML from source, you must specify these pat
 This is because each html page need to get the info separately from its own path.
 
 ## Tools
-* IntelliJ Webstorm 2019.3 - IDE
-* VS Code
+* IntelliJ Webstorm 2020.1 - IDE
 
 ## Resources
 * Online XML of total population in Switzerland: http://api.worldbank.org/v2/country/CH/indicator/SP.POP.TOTL?format=xml
