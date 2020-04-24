@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="https://www.nxssie.com"
+           xmlns="https://www.nxssie.com"
+           elementFormDefault="qualified">
+
+    <xs:element name="data" type ="data" />
+
+    <xs:complexType name="data">
+        <xs:sequence>
+            <xs:element name="pop" type ="pop" />
+            <xs:element name="gdp" type="gdp" />
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="pop">
+            <xs:sequence>
+                <xs:element name="entry" type="entry" maxOccurs="unbounded"/>
+            </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="gdp">
+        <xs:sequence>
+            <xs:element name="entry" type="entry" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="entry">
+        <xs:sequence>
+            <xs:element name="date" type="xs:integer" />
+            <xs:element name="indicator" type="xs:string" />
+            <xs:element name="country" type="xs:string" />
+            <xs:choice>
+                <xs:element name="population" type="xs:string" />
+                <xs:element name="gdp" type="xs:string" />
+            </xs:choice>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>

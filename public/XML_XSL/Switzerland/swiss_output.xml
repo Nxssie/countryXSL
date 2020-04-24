@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wb="http://www.worldbank.org"
-      xmlns="https://www.nxssie.com"
-      xsi:schemaLocation="https://www.nxssie.com swiss_output.xsd">
+<data xsi:schemaLocation="https://www.nxssie.com default.xsd" xmlns:wb="http://www.worldbank.org"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://www.nxssie.com">
     <pop>
         <entry>
             <date>2019</date>

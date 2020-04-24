@@ -1,13 +1,13 @@
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:wb="http://www.worldbank.org"
-                xmlns="https://www.nxssie.com"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xsi:schemaLocation="https://www.nxssie.com uk_output.xsd">
+                xmlns="https://www.nxssie.com">
     <xsl:output method="xml"/>
 
     <xsl:template match="/">
-            <data>
+            <data xmlns="https://www.nxssie.com"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:schemaLocation="https://www.nxssie.com default.xsd">
                 <pop>
                     <xsl:call-template name="population"/>
                 </pop>
