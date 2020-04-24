@@ -1,8 +1,7 @@
 # CountryXSL
 XSL Project using OpenData from different countries.
 
-The currently main page of the project:
-``` https://countryxsl.web.app/index.html ```
+The currently main page of the project: https://countryxsl.web.app/index.html
 
 ## Must
 When you want to generate a new XML/HTML from source, you must specify these paths to the output. 
