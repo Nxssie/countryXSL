@@ -15,8 +15,8 @@ This is because each html page need to get the info separately from its own path
 
 ## Resources
 * Online XML of total population in Switzerland: http://api.worldbank.org/v2/country/CH/indicator/SP.POP.TOTL?format=xml
-* XSL file to simplify the original XML to another XML with an specific format: https://github.com/Nxssie/countryXSL/blob/master/xml-to-xml.xsl
-* XSL file to transform the simplified XML to an HTML page: https://github.com/Nxssie/countryXSL/blob/master/xml-to-html.xsl
+* XSL file to simplify the original XML to another XML with an specific format: https://github.com/Nxssie/countryXSL/blob/master/public/XML_XSL/Switzerland/xml-to-xml.xsl
+* XSL file to transform the simplified XML to an HTML page: https://github.com/Nxssie/countryXSL/blob/master/public/XML_XSL/Switzerland/xml-to-html.xsl
 
 ## Acknowledgments
 * WorldBank Opendata: https://data.worldbank.org/
