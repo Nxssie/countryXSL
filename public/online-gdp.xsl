@@ -9,11 +9,11 @@
     <xsl:decimal-format name="EU" decimal-separator="," grouping-separator="." />
     <xsl:variable name="decimal-format-pattern">
         <xsl:choose>
-            <xsl:when test="$decimal-format='US'">#,###.00</xsl:when>
-            <xsl:when test="$decimal-format='EU'">#.###,00</xsl:when>
+            <xsl:when test="$decimal-format='US'">#,###.0000</xsl:when>
+            <xsl:when test="$decimal-format='EU'">#.###,0000</xsl:when>
         </xsl:choose>
     </xsl:variable>
-    <xsl:param name="decimal-format">EU</xsl:param>
+    <xsl:param name="decimal-format">US</xsl:param>
 
     <xsl:template match="/">
         <xsl:for-each select="/wb:data/wb:data">

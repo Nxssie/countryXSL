@@ -47,5 +47,11 @@ function initialize() {
         checkNumber();
     }
 
+    if (document.getElementById("estonia")) {
+        let popXML = loadXMLDocPop("http://api.worldbank.org/v2/country/EE/indicator/SP.POP.TOTL?format=xml");
+        let gdpXML = loadXMLDocGdp("http://api.worldbank.org/v2/country/EE/indicator/NY.GDP.MKTP.CD?format=xml");
+        displayResult(popXML, gdpXML, popXSL, gdpXSL);
+        checkNumber();
+    }
 
 }
