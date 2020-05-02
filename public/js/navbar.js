@@ -25,6 +25,12 @@ export let loadNavbar = () => {
       <li class="nav-item">
         <a class="nav-link" href="uk.html">United Kingdom</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="china.html">China</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="peru.html">Peru</a>
+      </li>
 
       <!-- Dropdown 
       <li class="nav-item dropdown">
