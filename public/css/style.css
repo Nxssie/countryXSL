@@ -1,6 +1,6 @@
 .my-custom-scrolltable {
     position: relative;
-    height: 525px;
+    height: 75vh;
     overflow-y: scroll;
 }
 

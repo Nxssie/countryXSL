@@ -22,6 +22,7 @@
                     <xsl:value-of select="wb:date"/>
                 </td>
                 <td class="gdp">
+                    <!--currently US format-->
                     <xsl:value-of select="format-number(number(wb:value),$decimal-format-pattern, $decimal-format)"/>
                 </td>
             </tr>

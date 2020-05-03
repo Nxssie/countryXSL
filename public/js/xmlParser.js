@@ -1,7 +1,3 @@
-export let getData = () => {
-    console.log("We are getting data correctly.");
-}
-
 var xhttp;
 var xhttpgdp;
 

@@ -1,20 +1,15 @@
 import {loadNavbar} from './navbar.js';
 import {checkNumber} from './checkings.js';
-import {getData,displayResult} from "./xmlParser.js";
-import {loadXMLDocPop} from "./xmlParser.js";
-import {loadXMLDocGdp} from "./xmlParser.js";
+import {displayResult, loadXMLDocPop, loadXMLDocGdp} from "./xmlParser.js";
 
 window.onload = initialize;
 
 function initialize() {
-    console.log("hola initialize");
     document.getElementById("my-navbar").innerHTML = loadNavbar();
 
     // for the future idea
     /*let countries = {"China":"CN", "Switzerland":"CHE", "Norway":"NOR"};
     countries[document.getElementById("")]*/
-
-    getData();
 
     let popXSL = loadXMLDocPop("online-pop.xsl");
     let gdpXSL = loadXMLDocGdp("online-gdp.xsl");
