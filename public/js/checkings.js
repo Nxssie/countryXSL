@@ -4,15 +4,16 @@ export let checkNumber =  () => {
     for (let i = 0; i < popElements.length; i++) {
         if(popElements[i].childNodes[0].nodeValue === "NaN") {
             popElements[i].childNodes[0].nodeValue = "No existing data.";
+            gdpElements[i].childNodes[0].nodeValue = "No existing data.";
         }
     }
 
-    for (let i = 0; i < gdpElements.length; i++) {
+    /*for (let i = 0; i < gdpElements.length; i++) {
         if(gdpElements[i].childNodes.length === 0) {
 
             popElements[i].childNodes[0].nodeValue = "No existing data.";
         }
-    }
+    }*/
 
 
 }

@@ -1,349 +1,452 @@
+<!DOCTYPE html>
 <html lang="en">
-    <head>
-        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Norway Database</title>
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700?display=swap">
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/mdb.min.css">
-        <link rel="stylesheet" href="css/style.css">
-        <script type="module" src="js/loader.js"></script>
-    </head>
-    <body>
-        <nav class="navbar navbar-expand-lg navbar-dark primary-color" id="my-navbar"></nav>
-        <div class="container" id="header">
-            <h2>This is our available data from Norway</h2>
-            <p>
-                Taken from this
-                        <a href="https://data.worldbank.org/country/norway">source</a>
-            </p>
-        </div>
-        <div class="row">
-            <div class="col-sm-6 table-wrapper-scroll my-custom-scrolltable">
-                <table class="table table-bordered table-striped mb-0" id="pop-table">
-                    <thead class="thead-dark">
-                        <th>Date</th><th>Population</th>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>2019</td><td class="population">NaN</td>
-                        </tr>
-                        <tr>
-                            <td>2018</td><td class="population">5.311.916,00</td>
-                        </tr>
-                        <tr>
-                            <td>2017</td><td class="population">5.276.968,00</td>
-                        </tr>
-                        <tr>
-                            <td>2016</td><td class="population">5.234.519,00</td>
-                        </tr>
-                        <tr>
-                            <td>2015</td><td class="population">5.188.607,00</td>
-                        </tr>
-                        <tr>
-                            <td>2014</td><td class="population">5.137.232,00</td>
-                        </tr>
-                        <tr>
-                            <td>2013</td><td class="population">5.079.623,00</td>
-                        </tr>
-                        <tr>
-                            <td>2012</td><td class="population">5.018.573,00</td>
-                        </tr>
-                        <tr>
-                            <td>2011</td><td class="population">4.953.088,00</td>
-                        </tr>
-                        <tr>
-                            <td>2010</td><td class="population">4.889.252,00</td>
-                        </tr>
-                        <tr>
-                            <td>2009</td><td class="population">4.828.726,00</td>
-                        </tr>
-                        <tr>
-                            <td>2008</td><td class="population">4.768.212,00</td>
-                        </tr>
-                        <tr>
-                            <td>2007</td><td class="population">4.709.153,00</td>
-                        </tr>
-                        <tr>
-                            <td>2006</td><td class="population">4.660.677,00</td>
-                        </tr>
-                        <tr>
-                            <td>2005</td><td class="population">4.623.291,00</td>
-                        </tr>
-                        <tr>
-                            <td>2004</td><td class="population">4.591.910,00</td>
-                        </tr>
-                        <tr>
-                            <td>2003</td><td class="population">4.564.855,00</td>
-                        </tr>
-                        <tr>
-                            <td>2002</td><td class="population">4.538.159,00</td>
-                        </tr>
-                        <tr>
-                            <td>2001</td><td class="population">4.513.751,00</td>
-                        </tr>
-                        <tr>
-                            <td>2000</td><td class="population">4.490.967,00</td>
-                        </tr>
-                        <tr>
-                            <td>1999</td><td class="population">4.461.913,00</td>
-                        </tr>
-                        <tr>
-                            <td>1998</td><td class="population">4.431.464,00</td>
-                        </tr>
-                        <tr>
-                            <td>1997</td><td class="population">4.405.157,00</td>
-                        </tr>
-                        <tr>
-                            <td>1996</td><td class="population">4.381.336,00</td>
-                        </tr>
-                        <tr>
-                            <td>1995</td><td class="population">4.359.184,00</td>
-                        </tr>
-                        <tr>
-                            <td>1994</td><td class="population">4.336.613,00</td>
-                        </tr>
-                        <tr>
-                            <td>1993</td><td class="population">4.311.991,00</td>
-                        </tr>
-                        <tr>
-                            <td>1992</td><td class="population">4.286.401,00</td>
-                        </tr>
-                        <tr>
-                            <td>1991</td><td class="population">4.261.732,00</td>
-                        </tr>
-                        <tr>
-                            <td>1990</td><td class="population">4.241.473,00</td>
-                        </tr>
-                        <tr>
-                            <td>1989</td><td class="population">4.226.901,00</td>
-                        </tr>
-                        <tr>
-                            <td>1988</td><td class="population">4.209.488,00</td>
-                        </tr>
-                        <tr>
-                            <td>1987</td><td class="population">4.186.905,00</td>
-                        </tr>
-                        <tr>
-                            <td>1986</td><td class="population">4.167.354,00</td>
-                        </tr>
-                        <tr>
-                            <td>1985</td><td class="population">4.152.516,00</td>
-                        </tr>
-                        <tr>
-                            <td>1984</td><td class="population">4.140.099,00</td>
-                        </tr>
-                        <tr>
-                            <td>1983</td><td class="population">4.128.432,00</td>
-                        </tr>
-                        <tr>
-                            <td>1982</td><td class="population">4.114.787,00</td>
-                        </tr>
-                        <tr>
-                            <td>1981</td><td class="population">4.099.702,00</td>
-                        </tr>
-                        <tr>
-                            <td>1980</td><td class="population">4.085.620,00</td>
-                        </tr>
-                        <tr>
-                            <td>1979</td><td class="population">4.072.517,00</td>
-                        </tr>
-                        <tr>
-                            <td>1978</td><td class="population">4.058.671,00</td>
-                        </tr>
-                        <tr>
-                            <td>1977</td><td class="population">4.043.205,00</td>
-                        </tr>
-                        <tr>
-                            <td>1976</td><td class="population">4.026.152,00</td>
-                        </tr>
-                        <tr>
-                            <td>1975</td><td class="population">4.007.313,00</td>
-                        </tr>
-                        <tr>
-                            <td>1974</td><td class="population">3.985.258,00</td>
-                        </tr>
-                        <tr>
-                            <td>1973</td><td class="population">3.960.612,00</td>
-                        </tr>
-                        <tr>
-                            <td>1972</td><td class="population">3.933.004,00</td>
-                        </tr>
-                        <tr>
-                            <td>1971</td><td class="population">3.903.039,00</td>
-                        </tr>
-                        <tr>
-                            <td>1970</td><td class="population">3.875.763,00</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-            <div class="col-sm-6 table-wrapper-scroll my-custom-scrolltable">
-                <table class="table table-bordered table-striped mb-0" id="gdp-table">
-                    <thead class="thead-dark">
-                        <th>Date</th><th>GDP (PIB) in $</th>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>2019</td><td class="gdp">NaN</td>
-                        </tr>
-                        <tr>
-                            <td>2018</td><td class="gdp">434.166.615.431,91</td>
-                        </tr>
-                        <tr>
-                            <td>2017</td><td class="gdp">398.393.955.268,99</td>
-                        </tr>
-                        <tr>
-                            <td>2016</td><td class="gdp">368.827.142.857,14</td>
-                        </tr>
-                        <tr>
-                            <td>2015</td><td class="gdp">385.801.550.067,17</td>
-                        </tr>
-                        <tr>
-                            <td>2014</td><td class="gdp">498.410.050.251,26</td>
-                        </tr>
-                        <tr>
-                            <td>2013</td><td class="gdp">522.761.531.914,89</td>
-                        </tr>
-                        <tr>
-                            <td>2012</td><td class="gdp">509.506.317.146,54</td>
-                        </tr>
-                        <tr>
-                            <td>2011</td><td class="gdp">498.283.438.454,28</td>
-                        </tr>
-                        <tr>
-                            <td>2010</td><td class="gdp">428.757.038.466,84</td>
-                        </tr>
-                        <tr>
-                            <td>2009</td><td class="gdp">386.190.385.318,77</td>
-                        </tr>
-                        <tr>
-                            <td>2008</td><td class="gdp">462.250.000.000,00</td>
-                        </tr>
-                        <tr>
-                            <td>2007</td><td class="gdp">400.937.100.158,66</td>
-                        </tr>
-                        <tr>
-                            <td>2006</td><td class="gdp">345.581.369.965,54</td>
-                        </tr>
-                        <tr>
-                            <td>2005</td><td class="gdp">308.884.284.051,22</td>
-                        </tr>
-                        <tr>
-                            <td>2004</td><td class="gdp">264.511.630.666,98</td>
-                        </tr>
-                        <tr>
-                            <td>2003</td><td class="gdp">228.858.506.821,84</td>
-                        </tr>
-                        <tr>
-                            <td>2002</td><td class="gdp">195.524.186.477,62</td>
-                        </tr>
-                        <tr>
-                            <td>2001</td><td class="gdp">173.972.218.824,03</td>
-                        </tr>
-                        <tr>
-                            <td>2000</td><td class="gdp">171.247.131.268,60</td>
-                        </tr>
-                        <tr>
-                            <td>1999</td><td class="gdp">162.284.465.073,34</td>
-                        </tr>
-                        <tr>
-                            <td>1998</td><td class="gdp">154.163.364.302,66</td>
-                        </tr>
-                        <tr>
-                            <td>1997</td><td class="gdp">161.356.631.888,48</td>
-                        </tr>
-                        <tr>
-                            <td>1996</td><td class="gdp">163.520.109.150,67</td>
-                        </tr>
-                        <tr>
-                            <td>1995</td><td class="gdp">152.029.612.324,79</td>
-                        </tr>
-                        <tr>
-                            <td>1994</td><td class="gdp">127.131.461.119,93</td>
-                        </tr>
-                        <tr>
-                            <td>1993</td><td class="gdp">120.579.072.750,60</td>
-                        </tr>
-                        <tr>
-                            <td>1992</td><td class="gdp">130.838.040.067,58</td>
-                        </tr>
-                        <tr>
-                            <td>1991</td><td class="gdp">121.872.464.483,49</td>
-                        </tr>
-                        <tr>
-                            <td>1990</td><td class="gdp">119.791.683.307,51</td>
-                        </tr>
-                        <tr>
-                            <td>1989</td><td class="gdp">102.633.789.557,54</td>
-                        </tr>
-                        <tr>
-                            <td>1988</td><td class="gdp">101.900.260.856,22</td>
-                        </tr>
-                        <tr>
-                            <td>1987</td><td class="gdp">94.230.055.658,63</td>
-                        </tr>
-                        <tr>
-                            <td>1986</td><td class="gdp">78.693.253.275,99</td>
-                        </tr>
-                        <tr>
-                            <td>1985</td><td class="gdp">65.416.879.914,39</td>
-                        </tr>
-                        <tr>
-                            <td>1984</td><td class="gdp">62.057.955.032,78</td>
-                        </tr>
-                        <tr>
-                            <td>1983</td><td class="gdp">61.627.240.831,09</td>
-                        </tr>
-                        <tr>
-                            <td>1982</td><td class="gdp">62.647.195.537,65</td>
-                        </tr>
-                        <tr>
-                            <td>1981</td><td class="gdp">63.596.654.760,87</td>
-                        </tr>
-                        <tr>
-                            <td>1980</td><td class="gdp">64.439.382.896,02</td>
-                        </tr>
-                        <tr>
-                            <td>1979</td><td class="gdp">53.132.244.623,92</td>
-                        </tr>
-                        <tr>
-                            <td>1978</td><td class="gdp">46.523.091.009,67</td>
-                        </tr>
-                        <tr>
-                            <td>1977</td><td class="gdp">41.508.030.431,11</td>
-                        </tr>
-                        <tr>
-                            <td>1976</td><td class="gdp">35.942.270.686,34</td>
-                        </tr>
-                        <tr>
-                            <td>1975</td><td class="gdp">32.877.805.200,02</td>
-                        </tr>
-                        <tr>
-                            <td>1974</td><td class="gdp">27.145.693.810,13</td>
-                        </tr>
-                        <tr>
-                            <td>1973</td><td class="gdp">22.534.253.702,87</td>
-                        </tr>
-                        <tr>
-                            <td>1972</td><td class="gdp">17.358.610.849,70</td>
-                        </tr>
-                        <tr>
-                            <td>1971</td><td class="gdp">14.583.114.840,06</td>
-                        </tr>
-                        <tr>
-                            <td>1970</td><td class="gdp">12.814.123.115,26</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
-        <script type="text/javascript" src="js/jquery.min.js"></script>
-        <script type="text/javascript" src="js/popper.min.js"></script>
-        <script type="text/javascript" src="js/bootstrap.min.js"></script>
-        <script type="text/javascript" src="js/mdb.min.js"></script>
-    </body>
+<head>
+  <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Norway Database</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700?display=swap">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/mdb.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script type="module" src="js/loader.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark primary-color" id="my-navbar"></nav>
+<div class="container" id="header">
+  <h2>This is our available data from Norway</h2>
+  <p>
+    Taken from this
+    <a href="https://data.worldbank.org/country/norway">source</a>
+  </p>
+</div>
+<div class="row">
+  <div class="col-sm-6 table-wrapper-scroll my-custom-scrolltable">
+    <table class="table table-bordered table-striped mb-0" id="pop-table">
+      <thead class="thead-dark">
+      <th>Date</th>
+      <th>Population</th>
+      </thead>
+      <tbody>
+      <tr>
+        <td>2019</td>
+        <td class="population">NaN</td>
+      </tr>
+      <tr>
+        <td>2018</td>
+        <td class="population">5.311.916,00</td>
+      </tr>
+      <tr>
+        <td>2017</td>
+        <td class="population">5.276.968,00</td>
+      </tr>
+      <tr>
+        <td>2016</td>
+        <td class="population">5.234.519,00</td>
+      </tr>
+      <tr>
+        <td>2015</td>
+        <td class="population">5.188.607,00</td>
+      </tr>
+      <tr>
+        <td>2014</td>
+        <td class="population">5.137.232,00</td>
+      </tr>
+      <tr>
+        <td>2013</td>
+        <td class="population">5.079.623,00</td>
+      </tr>
+      <tr>
+        <td>2012</td>
+        <td class="population">5.018.573,00</td>
+      </tr>
+      <tr>
+        <td>2011</td>
+        <td class="population">4.953.088,00</td>
+      </tr>
+      <tr>
+        <td>2010</td>
+        <td class="population">4.889.252,00</td>
+      </tr>
+      <tr>
+        <td>2009</td>
+        <td class="population">4.828.726,00</td>
+      </tr>
+      <tr>
+        <td>2008</td>
+        <td class="population">4.768.212,00</td>
+      </tr>
+      <tr>
+        <td>2007</td>
+        <td class="population">4.709.153,00</td>
+      </tr>
+      <tr>
+        <td>2006</td>
+        <td class="population">4.660.677,00</td>
+      </tr>
+      <tr>
+        <td>2005</td>
+        <td class="population">4.623.291,00</td>
+      </tr>
+      <tr>
+        <td>2004</td>
+        <td class="population">4.591.910,00</td>
+      </tr>
+      <tr>
+        <td>2003</td>
+        <td class="population">4.564.855,00</td>
+      </tr>
+      <tr>
+        <td>2002</td>
+        <td class="population">4.538.159,00</td>
+      </tr>
+      <tr>
+        <td>2001</td>
+        <td class="population">4.513.751,00</td>
+      </tr>
+      <tr>
+        <td>2000</td>
+        <td class="population">4.490.967,00</td>
+      </tr>
+      <tr>
+        <td>1999</td>
+        <td class="population">4.461.913,00</td>
+      </tr>
+      <tr>
+        <td>1998</td>
+        <td class="population">4.431.464,00</td>
+      </tr>
+      <tr>
+        <td>1997</td>
+        <td class="population">4.405.157,00</td>
+      </tr>
+      <tr>
+        <td>1996</td>
+        <td class="population">4.381.336,00</td>
+      </tr>
+      <tr>
+        <td>1995</td>
+        <td class="population">4.359.184,00</td>
+      </tr>
+      <tr>
+        <td>1994</td>
+        <td class="population">4.336.613,00</td>
+      </tr>
+      <tr>
+        <td>1993</td>
+        <td class="population">4.311.991,00</td>
+      </tr>
+      <tr>
+        <td>1992</td>
+        <td class="population">4.286.401,00</td>
+      </tr>
+      <tr>
+        <td>1991</td>
+        <td class="population">4.261.732,00</td>
+      </tr>
+      <tr>
+        <td>1990</td>
+        <td class="population">4.241.473,00</td>
+      </tr>
+      <tr>
+        <td>1989</td>
+        <td class="population">4.226.901,00</td>
+      </tr>
+      <tr>
+        <td>1988</td>
+        <td class="population">4.209.488,00</td>
+      </tr>
+      <tr>
+        <td>1987</td>
+        <td class="population">4.186.905,00</td>
+      </tr>
+      <tr>
+        <td>1986</td>
+        <td class="population">4.167.354,00</td>
+      </tr>
+      <tr>
+        <td>1985</td>
+        <td class="population">4.152.516,00</td>
+      </tr>
+      <tr>
+        <td>1984</td>
+        <td class="population">4.140.099,00</td>
+      </tr>
+      <tr>
+        <td>1983</td>
+        <td class="population">4.128.432,00</td>
+      </tr>
+      <tr>
+        <td>1982</td>
+        <td class="population">4.114.787,00</td>
+      </tr>
+      <tr>
+        <td>1981</td>
+        <td class="population">4.099.702,00</td>
+      </tr>
+      <tr>
+        <td>1980</td>
+        <td class="population">4.085.620,00</td>
+      </tr>
+      <tr>
+        <td>1979</td>
+        <td class="population">4.072.517,00</td>
+      </tr>
+      <tr>
+        <td>1978</td>
+        <td class="population">4.058.671,00</td>
+      </tr>
+      <tr>
+        <td>1977</td>
+        <td class="population">4.043.205,00</td>
+      </tr>
+      <tr>
+        <td>1976</td>
+        <td class="population">4.026.152,00</td>
+      </tr>
+      <tr>
+        <td>1975</td>
+        <td class="population">4.007.313,00</td>
+      </tr>
+      <tr>
+        <td>1974</td>
+        <td class="population">3.985.258,00</td>
+      </tr>
+      <tr>
+        <td>1973</td>
+        <td class="population">3.960.612,00</td>
+      </tr>
+      <tr>
+        <td>1972</td>
+        <td class="population">3.933.004,00</td>
+      </tr>
+      <tr>
+        <td>1971</td>
+        <td class="population">3.903.039,00</td>
+      </tr>
+      <tr>
+        <td>1970</td>
+        <td class="population">3.875.763,00</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="col-sm-6 mb-3 mb-md-0 table-wrapper-scroll my-custom-scrolltable">
+    <table class="table table-bordered table-striped mb-0" id="gdp-table">
+      <thead class="thead-dark">
+      <th>Date</th>
+      <th>GDP (PIB) in $</th>
+      </thead>
+      <tbody>
+      <tr>
+        <td>2019</td>
+        <td class="gdp">NaN</td>
+      </tr>
+      <tr>
+        <td>2018</td>
+        <td class="gdp">434.166.615.431,91</td>
+      </tr>
+      <tr>
+        <td>2017</td>
+        <td class="gdp">398.393.955.268,99</td>
+      </tr>
+      <tr>
+        <td>2016</td>
+        <td class="gdp">368.827.142.857,14</td>
+      </tr>
+      <tr>
+        <td>2015</td>
+        <td class="gdp">385.801.550.067,17</td>
+      </tr>
+      <tr>
+        <td>2014</td>
+        <td class="gdp">498.410.050.251,26</td>
+      </tr>
+      <tr>
+        <td>2013</td>
+        <td class="gdp">522.761.531.914,89</td>
+      </tr>
+      <tr>
+        <td>2012</td>
+        <td class="gdp">509.506.317.146,54</td>
+      </tr>
+      <tr>
+        <td>2011</td>
+        <td class="gdp">498.283.438.454,28</td>
+      </tr>
+      <tr>
+        <td>2010</td>
+        <td class="gdp">428.757.038.466,84</td>
+      </tr>
+      <tr>
+        <td>2009</td>
+        <td class="gdp">386.190.385.318,77</td>
+      </tr>
+      <tr>
+        <td>2008</td>
+        <td class="gdp">462.250.000.000,00</td>
+      </tr>
+      <tr>
+        <td>2007</td>
+        <td class="gdp">400.937.100.158,66</td>
+      </tr>
+      <tr>
+        <td>2006</td>
+        <td class="gdp">345.581.369.965,54</td>
+      </tr>
+      <tr>
+        <td>2005</td>
+        <td class="gdp">308.884.284.051,22</td>
+      </tr>
+      <tr>
+        <td>2004</td>
+        <td class="gdp">264.511.630.666,98</td>
+      </tr>
+      <tr>
+        <td>2003</td>
+        <td class="gdp">228.858.506.821,84</td>
+      </tr>
+      <tr>
+        <td>2002</td>
+        <td class="gdp">195.524.186.477,62</td>
+      </tr>
+      <tr>
+        <td>2001</td>
+        <td class="gdp">173.972.218.824,03</td>
+      </tr>
+      <tr>
+        <td>2000</td>
+        <td class="gdp">171.247.131.268,60</td>
+      </tr>
+      <tr>
+        <td>1999</td>
+        <td class="gdp">162.284.465.073,34</td>
+      </tr>
+      <tr>
+        <td>1998</td>
+        <td class="gdp">154.163.364.302,66</td>
+      </tr>
+      <tr>
+        <td>1997</td>
+        <td class="gdp">161.356.631.888,48</td>
+      </tr>
+      <tr>
+        <td>1996</td>
+        <td class="gdp">163.520.109.150,67</td>
+      </tr>
+      <tr>
+        <td>1995</td>
+        <td class="gdp">152.029.612.324,79</td>
+      </tr>
+      <tr>
+        <td>1994</td>
+        <td class="gdp">127.131.461.119,93</td>
+      </tr>
+      <tr>
+        <td>1993</td>
+        <td class="gdp">120.579.072.750,60</td>
+      </tr>
+      <tr>
+        <td>1992</td>
+        <td class="gdp">130.838.040.067,58</td>
+      </tr>
+      <tr>
+        <td>1991</td>
+        <td class="gdp">121.872.464.483,49</td>
+      </tr>
+      <tr>
+        <td>1990</td>
+        <td class="gdp">119.791.683.307,51</td>
+      </tr>
+      <tr>
+        <td>1989</td>
+        <td class="gdp">102.633.789.557,54</td>
+      </tr>
+      <tr>
+        <td>1988</td>
+        <td class="gdp">101.900.260.856,22</td>
+      </tr>
+      <tr>
+        <td>1987</td>
+        <td class="gdp">94.230.055.658,63</td>
+      </tr>
+      <tr>
+        <td>1986</td>
+        <td class="gdp">78.693.253.275,99</td>
+      </tr>
+      <tr>
+        <td>1985</td>
+        <td class="gdp">65.416.879.914,39</td>
+      </tr>
+      <tr>
+        <td>1984</td>
+        <td class="gdp">62.057.955.032,78</td>
+      </tr>
+      <tr>
+        <td>1983</td>
+        <td class="gdp">61.627.240.831,09</td>
+      </tr>
+      <tr>
+        <td>1982</td>
+        <td class="gdp">62.647.195.537,65</td>
+      </tr>
+      <tr>
+        <td>1981</td>
+        <td class="gdp">63.596.654.760,87</td>
+      </tr>
+      <tr>
+        <td>1980</td>
+        <td class="gdp">64.439.382.896,02</td>
+      </tr>
+      <tr>
+        <td>1979</td>
+        <td class="gdp">53.132.244.623,92</td>
+      </tr>
+      <tr>
+        <td>1978</td>
+        <td class="gdp">46.523.091.009,67</td>
+      </tr>
+      <tr>
+        <td>1977</td>
+        <td class="gdp">41.508.030.431,11</td>
+      </tr>
+      <tr>
+        <td>1976</td>
+        <td class="gdp">35.942.270.686,34</td>
+      </tr>
+      <tr>
+        <td>1975</td>
+        <td class="gdp">32.877.805.200,02</td>
+      </tr>
+      <tr>
+        <td>1974</td>
+        <td class="gdp">27.145.693.810,13</td>
+      </tr>
+      <tr>
+        <td>1973</td>
+        <td class="gdp">22.534.253.702,87</td>
+      </tr>
+      <tr>
+        <td>1972</td>
+        <td class="gdp">17.358.610.849,70</td>
+      </tr>
+      <tr>
+        <td>1971</td>
+        <td class="gdp">14.583.114.840,06</td>
+      </tr>
+      <tr>
+        <td>1970</td>
+        <td class="gdp">12.814.123.115,26</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/popper.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/mdb.min.js"></script>
+</body>
 </html>
