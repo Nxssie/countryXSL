@@ -25,18 +25,6 @@ function initialize() {
         displayResult(popXML, gdpXML, popXSL, gdpXSL);
     }
 
-    if (document.getElementById("norway")) {
-        let popXML = loadXMLDocPop("https://api.worldbank.org/v2/country/NOR/indicator/SP.POP.TOTL?format=xml");
-        let gdpXML = loadXMLDocGdp("https://api.worldbank.org/v2/country/NOR/indicator/NY.GDP.MKTP.CD?format=xml");
-        displayResult(popXML, gdpXML, popXSL, gdpXSL);
-    }
-
-    if (document.getElementById("switzerland")) {
-        let popXML = loadXMLDocPop("https://api.worldbank.org/v2/country/CH/indicator/SP.POP.TOTL?format=xml");
-        let gdpXML = loadXMLDocGdp("https://api.worldbank.org/v2/country/CH/indicator/NY.GDP.MKTP.CD?format=xml");
-        displayResult(popXML, gdpXML, popXSL, gdpXSL);
-    }
-
     if (document.getElementById("peru")) {
         let popXML = loadXMLDocPop("https://api.worldbank.org/v2/country/PE/indicator/SP.POP.TOTL?format=xml");
         let gdpXML = loadXMLDocGdp("https://api.worldbank.org/v2/country/PE/indicator/NY.GDP.MKTP.CD?format=xml");
