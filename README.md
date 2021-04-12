@@ -10,7 +10,7 @@ When you want to generate a new XML/HTML from source, you must specify these pat
   * UK: ``` \XML_XSL\UK\uk_output.xml (.html) ```
   * China: ``` \XML_XSL\China\china_output.xml (.html) ```
 
-This is because each html page need to get the info separately from its own path.
+This is because each html page needs to get the info separately from its own path.
 
 ## Tools
 * IntelliJ Webstorm 2020.1 - IDE
